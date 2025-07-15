@@ -24,19 +24,19 @@ Este projeto foi desenvolvido como prática de análise e visualização de dado
 
 ### 🔹 Visão Geral
 
-!\[Visão Geral](imagens/VisaoGeral.png)
+!\[Visão Geral] (VisaoGeral.png)
 
 ### 🔹 Renda
 
-!\[Renda](imagens/Renda.png)
+!\[Renda] (Renda.png)
 
 ### 🔹 Gastos
 
-!\[Gastos](imagens/Gasto.png)
+!\[Gastos] (Gasto.png)
 
 ### 🔹 Economias
 
-!\[Economias](imagens/Economias.png)
+!\[Economias] (Economias.png)
 
 -------------------------------------------------------------
 
