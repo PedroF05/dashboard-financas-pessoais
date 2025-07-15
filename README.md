@@ -42,7 +42,7 @@ Este projeto foi desenvolvido como prática de análise e visualização de dado
 
 Sinta-se à vontade para clonar, adaptar ou contribuir!
 
-📬 Para dúvidas, sugestões ou colaborações: \[seu e-mail ou LinkedIn]
+📬 Para dúvidas, sugestões ou colaborações: https://www.linkedin.com/in/pedro-henrique-freitas-santos-b93200283/
 
 -------------------------------------------------------------
 
